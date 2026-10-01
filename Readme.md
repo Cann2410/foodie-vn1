@@ -1,27 +1,19 @@
-# Yummy – Bootstrap 5 Free Responsive Restaurant Template
+# FOODIE VN
 
-#### Preview
+Website khám phá ẩm thực đường phố Việt Nam.
 
- - [Demo](https://themewagon.github.io/yummy-red/)
+## Giới thiệu
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/yummy-red/)
- 
- 
-## Getting Started
+FOODIE VN được xây dựng dựa trên template Yummy
+và được tùy chỉnh lại nội dung, hình ảnh và giao diện
+theo chủ đề ẩm thực đường phố Việt Nam.
 
-Clone from GitHub 
-```
-https://github.com/themewagon/yummy-red.git
-```
+## Nội dung
 
-## Author
-
-Design and code are completely written by BootstrapMade's design and development team.  
-
-
-## License
-
- - Design and Code is Copyright &copy; [BootstrapMade](https://bootstrapmade.com/)
- - Licensed under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
+- Giới thiệu FOODIE VN
+- Món ăn miền Bắc
+- Món ăn miền Trung
+- Món ăn miền Nam
+- Địa điểm ẩm thực
+- Gallery
+- Liên hệ
